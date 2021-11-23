@@ -1,3 +1,9 @@
+<p align="center">
+  <br>
+  <img src="logoWebmotors.png" width="800" />
+  <br>
+</p>
+
 # Front-end WebMotors
 
 Esse é o teste da WebMotors para exemplificar qual é a minha experiência com front-end stack. O projeto é bem interessante e minha tentativa foi de tentar recriar o mais próximo possível da tela original seguindo as regras pré-estabelicidas pelo documento compartilhado e não utilizar nenhuma biblioteca de componentes preexistentes. O resultado final é esse.
@@ -29,3 +35,4 @@ Como eu disse o teste foi ótimo. Apesar disso, devido ao tempo limitado e fator
 - Testes de integração
 - Snapshots para observar mudanças de renderização da página commitados
 - Criar abstrações de componentes que pudessem abarcar melhor pequenas mudanças (Selects é um caso bem específico que pode melhorar bastante)
+- Adicionar código em commits menores (Eu achei inicialmente que o projeto seria enviado na forma de zip, por isso )
