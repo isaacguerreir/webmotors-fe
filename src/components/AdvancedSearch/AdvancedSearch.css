@@ -1,0 +1,13 @@
+.arrow:before {
+    content: "› ";
+    font-weight: 700;
+}
+
+.arrow {
+    margin: 1rem 1rem;
+    color: #cc2929;
+    font-weight: 700;
+    font-size: large;
+}
+
+
